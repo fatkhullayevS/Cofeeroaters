@@ -146,13 +146,12 @@ padding: 0 80px;
 }
 
 .main-product-list{
-    background-image: url(../image/ourcollection.svg);
+background-image: url(../image/Our\ 01.jpg);
 background-repeat: no-repeat;
-background-position: center calc(50%-200px);
+background-position: center;
 display: flex;
 padding-top: 126px;
 }
-
 .main-product-box{
 max-width: 256px;
 height: auto;
